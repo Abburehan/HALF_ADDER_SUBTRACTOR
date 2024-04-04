@@ -42,7 +42,7 @@ Half Subtractor
 
 ![image](https://github.com/Abburehan/HALF_ADDER_SUBTRACTOR/assets/138849336/74ef5df7-ae04-4d88-abfe-8bdb30b99a37)
 
-**Procedure**
+**Procedure:**
 
 1.	Type the program in Quartus software.
 
@@ -60,6 +60,7 @@ Half Subtractor
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
 Developed by: SYED ABBU REHAN
+
 RegisterNumber: 212223240165
 ```
 module Half_Adder_Subtractor(a,b,sum,carry,D,Bo);
