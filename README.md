@@ -76,10 +76,9 @@ endmodule
 
 ![image](https://github.com/Abburehan/HALF_ADDER_SUBTRACTOR/assets/138849336/da8518ca-b6b5-407b-8271-831254d3a802)
 
-
 **Output/TIMING Waveform**
 
-![image](https://github.com/Abburehan/HALF_ADDER_SUBTRACTOR/assets/138849336/861deeae-e331-405f-9a3b-59497aadb517)
+![de ex03](https://github.com/Abburehan/HALF_ADDER_SUBTRACTOR/assets/138849336/338514ff-3838-4e5d-95c8-de631f827f6b)
 
 **Result:**
 Thus the half adder and half subtractor circuits are designed and the truth tables are verified successfully using quartus software.
